@@ -50,22 +50,23 @@ confidence: Prediction confidence in %
 
 ## 🖼️ UI Sneak Peek
 
-##🏗️ Installation & Setup
+
+## 🏗️ Installation & Setup
 
 **Backend**
-cd back-end
-python -m venv venv
-venv\Scripts\activate        # For Windows
-pip install -r requirements.txt
-uvicorn main:app --reload
+- cd back-end
+- python -m venv venv
+- venv\Scripts\activate        # For Windows
+- pip install -r requirements.txt
+- uvicorn main:app --reload
 
 **Frontend**
-cd front-end
-npm install
-npm start
+- cd front-end
+- npm install
+- npm start
 
-##🤝 Team
-K.Sai Uma Shankar
-G. Ram Trilok
-R. Navaneeth
-G. Manideep
+## 🤝 Team
+- K.Sai Uma Shankar
+- G. Ram Trilok
+- R. Navaneeth
+- G. Manideep
