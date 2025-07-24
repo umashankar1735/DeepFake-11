@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pkl
+*.pth
+*.pt
+*.h5
+*.npy
+*.mp4
+*.avi
+*.mov
+*.zip
+train_sample_videos/
+.DS_Store
+.env
